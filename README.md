@@ -6,7 +6,7 @@ http://creativecommons.org/licenses/by-nc/4.0/
 
 If you are reading this, it means you are interested in organizing your own Django Girls event. That's awesome!
 
-In this manual we are going to explain to you how Django Girls works, what you need to do and how to get started. So... let's get into details:
+In this manual we are going to explain  you how Django Girls works, what you need to do and how to get started. So... let's get into details:
 
 ## What is Django Girls?
 
@@ -35,7 +35,7 @@ Django Girls events are always non-profit and free for participants. We do not p
 To use the Django Girls name for your workshop, your event needs to meet the following prerequisites:
 * it needs to be free for participants (free of charge, application process open to everyone), and women will have preference in attending
 * it has to be non-profit
-* it has to be approved by the Django Girls Foundation, remember to contact us first! Details below.
+* it has to be approved by the Django Girls Foundation, remember to contact us first! Details are given below.
 
 To ensure the quality of each Django Girls workshop, and to support local infrastructure, volunteers and supporters from becoming overextended:
 * applications should be placed a minimum of __three months__ prior to the proposed workshop date to allow adequate time for planning
